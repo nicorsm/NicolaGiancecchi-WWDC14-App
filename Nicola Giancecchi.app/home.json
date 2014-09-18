@@ -1,0 +1,45 @@
+[
+	{
+		"title":"About me",
+		"subtitle":"I'm 21 from San Marino",
+		"img":"icon_user.png",
+		"link":"about",
+        "color":"#88e7fc"
+	},
+	{
+		"title":"Study",
+		"subtitle":"Computer Science & Engineering",
+		"img":"icon_uni.png",
+        "link":"study",
+        "color":"#6fd7f5"
+	},
+	{
+		"title":"Work",
+		"subtitle":"Junior iOS Developer @ Mr. APPs srl",
+		"img":"icon_work.png",
+        "link":"work",
+        "color":"#56c6ee"
+	},
+	{
+		"title":"Projects",
+		"subtitle":"9 projects",
+		"img":"icon_proj.png",
+        "link":"projects",
+        "color":"#3eb6e7"
+	},
+	{
+		"title":"Skills",
+		"subtitle":"Technical skills, languages and hobbies",
+		"img":"icon_skills.png",
+        "link":"skills",
+        "color":"#25a5e0"
+	},
+	{
+		"title":"Awards",
+		"subtitle":"4 awards",
+		"img":"icon_awards.png",
+        "link":"awards",
+        "color":"#0c95d9"
+	}
+]
+ 

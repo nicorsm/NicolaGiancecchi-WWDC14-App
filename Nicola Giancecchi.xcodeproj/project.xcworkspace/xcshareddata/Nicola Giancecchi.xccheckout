@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>922846EC-84CB-4E39-B737-3A7C72EC6E04</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Nicola Giancecchi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7953CCEA-CFDC-4A51-86D9-D30E928224DC</key>
+		<string>https://github.com/nicorsm/NicolaGiancecchi-WWDC2014-App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Nicola Giancecchi.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7953CCEA-CFDC-4A51-86D9-D30E928224DC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nicorsm/NicolaGiancecchi-WWDC2014-App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7953CCEA-CFDC-4A51-86D9-D30E928224DC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7953CCEA-CFDC-4A51-86D9-D30E928224DC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Nicola Giancecchi</string>
+		</dict>
+	</array>
+</dict>
+</plist>

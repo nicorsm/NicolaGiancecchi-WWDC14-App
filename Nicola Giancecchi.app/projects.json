@@ -1,0 +1,216 @@
+[
+    {
+        "name": "MyDaylife",
+        "payoff": "Give a score to your life!",
+        "img": ["mdl1.jpg","mdl2.jpg","mdl3.jpg","mdl4.jpg","mdl5.jpg"],
+        "logo": "mydaylife_app.png",
+        "description": "How many times did you feel like flying and touching the sky?\nHow many times did you think of giving up with everything and starting a new life?\nFind out in MyDaylife, the first multimedia diary for your iPhone that lets you give votes to your days, generating a graphic representation of your life.",
+        "client": {
+            "name": "Mr. APPs srl",
+            "link": "http://www.mr-apps.com"
+        },
+        "status": {
+            "name": "Available on the App Store",
+            "link": "https://itunes.apple.com/us/app/mydaylife/id493882586?mt=8"
+        },
+        "date": "May 2013",
+        "languages": "Objective-C, PHP",
+        "stats": "1st place on Lifestyle category on over 28 countries.\n50.000 downloads.",
+        "video": "http://www.youtube.com/watch?v=clQ5us0PpKQ",
+        "isMrApps":true
+    },
+    {
+        "name": "myITIS",
+        "payoff": "When school meets students.",
+        "img": ["myitis_registro.png",
+        		"myitis_voti_phone.png",
+        		"myitis_voti.png"],
+        "logo": "myitis_icn.png",
+        "description": "With myITIS you can quickly monitor your school life thanks to an innovative, simple and clear user interface and technical improvements that let you save up to 90% of data traffic than the classic web access.",
+        "client": {
+            "name": "ITIS Leonardo da Vinci - Rimini",
+            "link": "http://my.itisrn.it"
+        },
+        "status": {
+            "name": "Offline",
+            "link": ""
+        },
+        "date": "June 2012",
+        "languages": "Objective-C, Java, C#",
+        "stats": "Used by 60% of students in the school.",
+        "video": "https://www.youtube.com/watch?v=PwEppP7d_tc",
+        "isMrApps":false
+    },
+    {
+        "name": "Blurred Life",
+        "payoff": "Hipsterize your iPhone!",
+        "img": ["blurred_pic1.png",
+        "blurred_pic2.png",
+        "blurred_pic3.png",
+        "blurred_pic4.png",
+        "blurred_pic5.png"
+        ],
+        "logo": "blurred_icn.png",
+        "description": "Create magnificent iOS 7-ready wallpapers with Blurred Life!\nImpress your friends with a gorgeous wallpaper for your iPhone made by yourself with Blurred Life. ",
+        "client": {
+            "name": "Mr. APPs srl",
+            "link": "http://www.mr-apps.com"
+        },
+        "status": {
+            "name": "Available on the App Store",
+            "link": "https://itunes.apple.com/us/app/blurred-life/id816485262?ls=1&mt=8"
+        },
+        "date": "March 2014",
+        "languages": "Objective-C",
+        "stats": "30.000 downloads\nTop 10 on its category",
+        "video": "",
+        "isMrApps":true
+    },
+    {
+        "name": "FiDO",
+        "payoff": "Manage your pets",
+        "img": ["fido_pic1.JPG",
+        "fido_pic2.JPG",
+        "fido_pic3.JPG"
+        ],
+        "logo": "fido_logo_big.png",
+        "description": "FiDO is an Android app that let you control the life of your pet, be it a dog, a cat, a fish or a horse. Keep track of major events such as the vet visit, the daily walk or the next competition. Monitor the growth of your animal and the weekly and daily diet. Track the statistics with graphs and averages. ",
+        "client": {
+            "name": "OOP academic project",
+            "link": "http://isi.polocesena.unibo.it"
+        },
+        "status": {
+            "name": "Coming soon",
+            "link": ""
+        },
+        "date": "April 2014",
+        "languages": "Java",
+        "stats": "",
+        "video": "",
+        "isMrApps":false
+    },
+    {
+        "name": "Mr. Shop Lab 25",
+        "payoff": "The final clothing app",
+        "img": ["lab_pic1.jpeg",
+        "lab_pic2.jpeg",
+        "lab_pic3.jpeg",
+        "lab_pic4.jpeg",
+        "lab_pic5.jpeg"],
+        "logo": "lab_icn.png",
+        "description": "Lab 25 shop app - products showcase and mobile e-commerce. Find more on www.mr-shop.it",
+        "client": {
+            "name": "Lab 25",
+            "link": "http://www.lab-25.com"
+        },
+        "status": {
+            "name": "Available on the App Store",
+            "link": "https://itunes.apple.com/it/app/lab-25/id762143508?mt=8"
+        },
+        "date": "November 2013",
+        "languages": "Objective-C, PHP",
+        "stats": "",
+        "video": "",
+        "isMrApps":true
+    },
+    {
+        "name": "More in Italy",
+        "payoff": "Reinvent your home.",
+        "img": ["mii_pic1.png","mii_pic2.png","mii_pic3.png","mii_pic4.png"],
+        "logo": "mii_icn.png",
+        "description": "The best Italian design companies and Bank Mediolanum made team into the brand Mii - More in Italy to network together and share the major brands of Italian industry, which is the branch that revolves around the home field.",
+        "client": {
+            "name": "More In Italy",
+            "link": "http://www.moreinitaly.it"
+        },
+        "status": {
+            "name": "To be published on the App Store",
+            "link": ""
+        },
+        "date": "January 2014",
+        "languages": "Objective-C, PHP",
+        "stats": "",
+        "video": "",
+        "isMrApps":true
+ },
+ {
+ "name": "IncentivAgente",
+ "payoff": "Work hard. Sell hard.",
+ "img": ["ia_home.png","ia_order.png","ia_premi.png","ia_storico.png","ia_stats.png"],
+ "logo": "ia_app.png",
+ "description": "IncentivAgente is an app built for the italian wellness company Gessi, to improve the work of his thousands agents in Italy. Every event gives you a score in point, and with these points you can redeem awards and prizes.",
+ "client": {
+ "name": "Gessi",
+ "link": "http://www.gessi.it"
+ },
+ "status": {
+ "name": "Enterprise distribution",
+ "link": ""
+ },
+ "date": "January 2013",
+ "languages": "Objective-C, PHP",
+ "stats": "",
+ "video": "",
+ "isMrApps":true
+ },
+    {
+        "name": "SeaMan",
+        "payoff": "Fleet management app",
+        "img": ["gdf_screen.png"],
+        "logo": "gdf_icn.png",
+        "description": "With SeaMan the maintenance of a ship fleet is easy, smart and quick. SeaMan lets you have access to all the handbooks, scheduling and documents about the maintenance of every single vessel.",
+        "client": {
+            "name": "Guardia di Finanza",
+            "link": "http://www.gdf.it"
+        },
+        "status": {
+            "name": "Sent to the App Store",
+            "link": ""
+        },
+        "date": "April 2014",
+        "languages": "Objective-C, Java",
+        "stats": "",
+        "video": "",
+        "isMrApps":true
+    },
+    {
+        "name": "Ventoso 8",
+        "payoff": "Ventoso in Concert website",
+        "img": ["sitovic.png"],
+        "logo": "logovic.png",
+        "description": "Ventoso in Concert is a charity music event of San Marino. The website is built without CMS and using the latest technologies such as jQuery with a parallax effect.",
+        "client": {
+            "name": "Ventoso in Concert",
+            "link": "http://www.ventosoinconcert.com"
+        },
+        "status": {
+            "name": "Online",
+            "link": ""
+        },
+        "date": "April 2013",
+        "languages": "PHP, CSS, JavaScript, MySQL",
+        "stats": "",
+        "video": "",
+        "isMrApps":false
+    },
+    {
+        "name": "N.I.E.",
+        "payoff": "Nothing Inside Eyes website",
+        "img": ["sitonie.png"],
+        "logo": "nielogo.png",
+        "description": "Official website of Nothing Inside Eyes, a sanmarinese metalcore band born from the old project Alchimia 2012. Website made without using CMS.",
+        "client": {
+            "name": "Nothing Inside Eyes",
+            "link": "http://www.nothinginsideeyes.com"
+        },
+        "status": {
+            "name": "Online",
+            "link": ""
+        },
+        "date": "October 2012",
+        "languages": "PHP, CSS, JavaScript, MySQL",
+        "stats": "",
+        "video": "",
+        "isMrApps":false
+    }
+]
